@@ -1,0 +1,54 @@
+State/Territory,Total Cases,Confirmed Cases,Probable Cases,Total Deaths,Confirmed Deaths,Probable Deaths
+Alaska,6353,null,null,44,null,null
+Alabama,139459,126299,13160,2355,2221,134
+Arkansas,70627,null,null,986,null,null
+Arizona,208725,206775,1950,5322,5049,273
+California,757778,null,null,14385,null,null
+Colorado,61699,57453,4246,1990,1639,351
+Connecticut,54895,52624,2271,4485,3590,895
+District of Columbia,14622,null,null,616,null,null
+Delaware,19121,18122,999,618,545,73
+Florida,658203,null,null,12642,null,null
+Georgia,295337,null,null,6353,null,null
+Hawaii,10834,null,null,99,null,null
+Iowa,74935,null,null,1224,null,null
+Idaho,35532,32730,2802,419,382,37
+Illinois,264839,262744,2095,8546,8314,232
+Indiana,106540,null,null,3439,3215,224
+Kansas,49899,48139,1760,534,null,null
+Kentucky,57282,51317,5965,1065,1056,9
+Louisiana,158882,null,null,5252,5082,170
+Massachusetts,133035,123139,9896,9218,9010,208
+Maryland,117245,null,null,3849,3706,143
+Maine,4918,4415,503,137,null,null
+Michigan,124287,112612,11675,6921,6601,320
+Minnesota,85351,null,null,1979,1927,52
+Missouri,104079,null,null,1714,null,null
+Mississippi,90523,84912,5611,2734,2543,191
+Montana,9107,9107,0,138,138,0
+North Carolina,185781,null,null,3060,null,null
+North Dakota,16064,null,null,172,null,null
+Nebraska,38642,null,null,435,null,null
+New Hampshire,7714,null,null,436,null,null
+New Jersey,196968,null,null,16034,14245,1789
+New Mexico,26842,null,null,823,null,null
+Nevada,74043,null,null,1491,null,null
+New York,206881,null,null,8995,null,null
+Ohio,138484,131235,7249,4419,4126,293
+Oklahoma,77208,70223,6985,905,905,0
+Oregon,29484,28117,1367,511,498,13
+Pennsylvania,145063,140842,4221,7869,null,null
+Puerto Rico,38172,18206,19966,551,385,166
+Rhode Island,23130,null,null,1075,null,null
+South Carolina,132680,130256,2424,3077,2922,155
+South Dakota,16801,null,null,184,182,2
+Tennessee,174274,169130,5144,2097,2026,71
+Texas,663445,null,null,14211,null,null
+Utah,59283,58796,487,436,435,1
+Virginia,135514,129259,6255,2839,2691,148
+Vermont,1702,null,null,58,null,null
+Washington,80138,null,null,2006,null,null
+Wisconsin,95497,89956,5541,1218,1210,8
+West Virginia,12820,12519,301,275,null,null
+Wyoming,4392,3723,669,46,46,0
+United States of America,6537627,2406683,128859,194092,103822,10585
