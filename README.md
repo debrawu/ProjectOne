@@ -20,11 +20,17 @@ WHO (World Health Organization) defines the pandemic as “an epidemic occurring
   
 ### Data Sets to be Used
 http://www.census.gov/data.html
+
 https://covid19api.com/
+
 https://www.bea.gov/
+
 https://coronavirus.jhu.edu/
+
 https://covid.cdc.gov/covid-data-tracker/#cases_casesinlast7days
+
 https://covidtracking.com/
+
 https://www.census.gov/data/developers.html
 
 ### Rough Breakdown of Tasks
