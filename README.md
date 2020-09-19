@@ -8,11 +8,15 @@
 WHO (World Health Organization) defines the pandemic as “an epidemic occurring worldwide, or over a very wide area, crossing international boundaries and usually affecting a large number of people". COVID-19 has affected every part of the world in 2020, and the purpose of this project reflects in scopes and areas that COVID-19 has impacted (Age, Socio-economic factors related to GDP, locations, Populations, etc.) by analyzing the data of COVID-19 from multiple sets.  
 
 ### Research Questions to Answer
-  Compare the deaths of COVID-19 from a global perspective from the population, population density, and GDP
-  Compare the deaths of COVID-19 from the US perspective from the population, population density, and GDP 
-  Does the age demonstrate the COVID-19 death risk in the United States?
-  Does GDPs for each state have any relationships with Covid-related deaths?
-  How is gender impacted by Covid-19 deaths in the US?
+  1) Compare the deaths of COVID-19 from a global perspective from the population, population density, and GDP
+  
+  2) Compare the deaths of COVID-19 from the US perspective from the population, population density, and GDP 
+  
+  3) Does the age demonstrate the COVID-19 death risk in the United States?
+  
+  4) Does GDPs for each state have any relationships with Covid-related deaths?
+  
+  5) How is gender impacted by Covid-19 deaths in the US?
   
 ### Data Sets to be Used
 http://www.census.gov/data.html
