@@ -47,7 +47,7 @@ https://www.census.gov/data/developers.html
   
   2) Compare the deaths of COVID-19 from the US perspective from the population, population density, and GDP 
   
-  3) Does the age demonstrate the COVID-19 death risk in the United States?
+  3) Does the age demonstrate the COVID-19 death risk level in the United States?
   
   4) Does GDPs for each state have any relationships with Covid-related deaths?
   
