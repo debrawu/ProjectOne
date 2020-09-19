@@ -49,6 +49,6 @@ https://www.census.gov/data/developers.html
   
   3) Does the age demonstrate the risk level of COVID-19 death in the United States?
   
-  4) Does GDPs for each state have any relationships with Covid-19 deaths?
+  4) Does GDPs for each state have any relationships with COVID-19 deaths?
   
   5) How is gender impacted by Covid-19 deaths in the US?
