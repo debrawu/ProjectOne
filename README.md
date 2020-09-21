@@ -29,6 +29,8 @@ https://coronavirus.jhu.edu/
 
 https://covid.cdc.gov/covid-data-tracker/#cases_casesinlast7days
 
+https://www.cdc.gov/tobacco/data_statistics/mmwrs/byyear/2019/mm6845a2/index.html
+
 https://covidtracking.com/
 
 https://www.census.gov/data/developers.html
