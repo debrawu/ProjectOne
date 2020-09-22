@@ -47,13 +47,37 @@ https://www.census.gov/data/developers.html
 ### Written Analysis
   1) Compare the deaths of COVID-19 from a global perspective from the population, population density, and GDP
   
-  2) Compare the deaths of COVID-19 from the US perspective from the population, population density, and GDP 
+  2) Compare the deaths of COVID-19 from the US perspective from the population 
+![DeathsperState](https://user-images.githubusercontent.com/65466578/93837236-f536a500-fc4a-11ea-9642-2e6ff24634cc.png)
+In the US, we can see the number of deaths per state and how they rank within each other. We can see that states like New York, California, New Jersey, Florida & Texas and other states like Hawaii, Wyoming, North Dakota and Alaska ranking very low in Covid deaths. 
+
+Naturally, we could assume there is a relationship between population and deaths, with states like Wyoming, North Dakota & Alaska which are much lower in population in comparison to other states. 
+
+![PopulationDeathPercentage](https://user-images.githubusercontent.com/65466578/93837251-01bafd80-fc4b-11ea-8f5a-3375118a1ef6.png)
+
+While we can see that with states like New York and California, both which are very populated rating very high on the death rates as well, there is also states like New Jersey, Louisiana, and Massachusetts, that have a high rate of death than its population, and states like Texas and Florida that have a high percentage of the population but also rank within the top 5 of deaths.
+
+With the varying numbers, we can use a scatter plot with a linear regression to see what kind of correlation there is between population and deaths.
+
+![DeathsperPopulation](https://user-images.githubusercontent.com/65466578/93837931-96265f80-fc4d-11ea-83f1-c6e1ecd0841d.png)
+
+As we can see here, there is a strong, positive relationship between the death rate and population. This means that as the population grows, so does the death rate related to Covid. This could be due also to overcrowding, lack of resources in hospitals that could also assist in the recovery of infected patients. 
   
   3) Does the age demonstrate the risk level of COVID-19 death in the United States?
     
    Adding more factors to COVID-19 deaths, we wanted to analyze the relationship between COVID-19 deaths and the age group, since the media has been raising the concern of COVID-19’s vulnerability risk among people who are older. Based on CDC data, approximately 80% of the COVID-19 deaths are from adults age 65 years and older. In contrast, the age group of children age 14 and under has a significantly low death rate (approx. 0.03%) in the last 7 months of this Pandemic period.   
     
   4) Does GDPs for each state have any relationships with COVID-19 deaths?
+  
+    ![Screen Shot 2020-09-19 at 11 10 15 AM (2)](https://user-images.githubusercontent.com/65466578/93836297-e4386480-fc47-11ea-912a-dd08c76c65d4.png)
+  In this portion of the study, we analyzed the socio-economic factors that could play into Covid related deaths. The GDP data was gathered by the Bureau of Economic Analysis, and we specifically gathered the data from 2018, when the economy was more stable and unaffected by a pandemic. Our initial hypothesis was that the GDP had an adverse effect on Covid deaths. With a higher GDP, the assumption was that more people would have better access to healthcare and resources in order to recover from the virus.
+  
+  The heatmap illustrates two layers, the outside layer of GDP and the internal layer of deaths by Covid. Opposite from our initial hypothesis, it seems that with a higher GDP, that there are more deaths related to Covid. 
+  
+  ![DeathsperRegionalGDP](https://user-images.githubusercontent.com/65466578/93836501-a1c35780-fc48-11ea-9464-1d89dbc141e7.png)
+![DeathsperStateGDP](https://user-images.githubusercontent.com/65466578/93836502-a25bee00-fc48-11ea-9c76-0ed097ad4bba.png)
+
+We can see based on the analysis of GDP per state and by region, that actually both represent a positive correlation between the GDP and death, and when there is a growth in GDP, there is also a growth in death. 
   
   5) How is gender impacted by Covid-19 deaths in the US?
   
