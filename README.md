@@ -65,8 +65,10 @@ With the varying numbers, we can use a scatter plot with a linear regression to 
 As we can see here, there is a strong, positive relationship between the death rate and population. This means that as the population grows, so does the death rate related to Covid. This could be due also to overcrowding, lack of resources in hospitals that could also assist in the recovery of infected patients. 
   
   3) Does the age demonstrate the risk level of COVID-19 death in the United States?
-    
-   Adding more factors to COVID-19 deaths, we wanted to analyze the relationship between COVID-19 deaths and the age group, since the media has been raising the concern of COVID-19’s vulnerability risk among people who are older. Based on CDC data, approximately 80% of the COVID-19 deaths are from adults age 65 years and older. In contrast, the age group of children age 14 and under has a significantly low death rate (approx. 0.03%) in the last 7 months of this Pandemic period.   
+
+![Agebased](https://github.com/debrawu/ProjectOne/blob/master/deaths_by_agegroup.png)
+
+Adding more factors to COVID-19 deaths, we wanted to analyze the relationship between COVID-19 deaths and the age group, since the media has been raising the concern of COVID-19’s vulnerability risk among people who are older. Based on CDC data, approximately 80% of the COVID-19 deaths are from adults age 65 years and older. In contrast, the age group of children age 14 and under has a significantly low death rate (approx. 0.03%) in the last 7 months of this Pandemic period.   
     
   4) Does GDPs for each state have any relationships with COVID-19 deaths?
   
