@@ -50,13 +50,13 @@ https://www.census.gov/data/developers.html
   2) Compare the deaths of COVID-19 from the US perspective from the population 
 ![DeathsperState](https://user-images.githubusercontent.com/65466578/93837236-f536a500-fc4a-11ea-9642-2e6ff24634cc.png)
 
-In the US, we can see the number of deaths per state and how they rank within each other. We can see that states like New York, California, New Jersey, Florida & Texas and other states like Hawaii, Wyoming, North Dakota and Alaska ranking very low in Covid deaths. 
+In the US, we can see the number of deaths per state and how they rank with each other. We can see that states like New York, California, New Jersey, Florida & Texas rank very high while other states like Hawaii, Wyoming, North Dakota and Alaska rank very low in Covid deaths. 
 
 Naturally, we could assume there is a relationship between population and deaths, with states like Wyoming, North Dakota & Alaska which are much lower in population in comparison to other states. 
 
 ![PopulationDeathPercentage](https://user-images.githubusercontent.com/65466578/93837251-01bafd80-fc4b-11ea-8f5a-3375118a1ef6.png)
 
-While we can see that with states like New York and California, both which are very populated rating very high on the death rates as well, there is also states like New Jersey, Louisiana, and Massachusetts, that have a high rate of death than its population, and states like Texas and Florida that have a high percentage of the population but also rank within the top 5 of deaths.
+With this comparison bar chart, we can see that with states like New York and California, both which are very populated rate high on the death rates. However, there are also states like New Jersey, Louisiana, and Massachusetts, that have a higher percentage of death than its population, and states like Texas and Florida that have a high percentage of the population but also rank within the top 5 of deaths.
 
 With the varying numbers, we can use a scatter plot with a linear regression to see what kind of correlation there is between population and deaths.
 
@@ -74,7 +74,7 @@ Adding more factors to COVID-19 deaths, we wanted to analyze the relationship be
   
 ![Screen Shot 2020-09-19 at 11 10 15 AM (2)](https://user-images.githubusercontent.com/65466578/93838053-f5846f80-fc4d-11ea-9d7a-569fba8715c1.png)
 
-  In this portion of the study, we analyzed the socio-economic factors that could play into Covid related deaths. The GDP data was gathered by the Bureau of Economic Analysis, and we specifically gathered the data from 2018, when the economy was more stable and unaffected by a pandemic. Our initial hypothesis was that the GDP had an adverse effect on Covid deaths. With a higher GDP, the assumption was that more people would have better access to healthcare and resources in order to recover from the virus.
+  In this portion of the study, we analyze the socio-economic factors that could play into Covid related deaths. The GDP data was gathered by the Bureau of Economic Analysis, and we specifically gathered the data from 2018, when the economy was more stable and unaffected by a pandemic. Our initial hypothesis was that the GDP had an adverse effect on Covid deaths. With a higher GDP, the assumption was that more people would have better access to healthcare and resources in order to recover from the virus.
   
   The heatmap illustrates two layers, the outside layer of GDP and the internal layer of deaths by Covid. Opposite from our initial hypothesis, it seems that with a higher GDP, that there are more deaths related to Covid. 
   
