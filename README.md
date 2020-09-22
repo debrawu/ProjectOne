@@ -49,11 +49,9 @@ https://www.census.gov/data/developers.html
   
   A Global Pandemic: The data for the global analysis was obtained from the Johns Hopkins COVID case data referenced below: https://documenter.getpostman.com/view/5352730/SzYbyxR5?version=latest
 
-Is there a relationship between COVID deaths and the Gross Domestic Product of a country?
+Is there a relationship between COVID deaths and the Gross Domestic Product of a country? -- Surprisingly, yes.  The data reveals a strong positive correlation between deaths and GDP.  Intuitively, we would expect for the richest countries in the world to have the lowest death rates due to available resources and robust healthcare systems.  However, when grouped by continent, The Americas have experienced 51.6% of the global deaths, but these countries only represent 32.7% of the global GDP.
 
-Surprisingly, yes.  The data reveals a strong positive correlation between deaths and GDP.  Intuitively, we would expect for the richest countries in the world to have the lowest death rates due to available resources and robust healthcare systems.  However, when grouped by continent, The Americas have experienced 51.6% of the global deaths, but these countries only represent 32.7% of the global GDP.
-
-
+![continentscatter](https://github.com/debrawu/ProjectOne/blob/master/Scatter%20by%20Continent.jpg)
 
 Is there a relationship between COVID deaths and the population of a country? -- There is a correlation between COVID deaths and population, however, this correlation is not strong.
 
@@ -61,15 +59,11 @@ Is there a relationship between COVID deaths and the population of a country? --
 
 When we look at a histogram of % of Total Deaths and % of Total Population, we can see some surprising findings.  The United States comprises only ~5% of the global population but has experienced 20% or the deaths.  The most populous countries, China and India, only represent 0.4% and 8.2% deaths respectively.
 
-
-
-
-
+![deathsNpopulation](https://github.com/debrawu/ProjectOne/blob/master/Histogram-Per%20Total%20Deaths%20by%20Country.jpg)
 
 Is there a relationship between COVID deaths and the population density of a country? -- No, there is absolutely no relationship between COVID deaths and population density.  It is far more likely that COVID outbreaks are more a function of culture, mask adoption and social-distancing practices more than GPP, population and population density. 
 
 ![populationdensity](https://github.com/debrawu/ProjectOne/blob/master/Deaths%20vs%20Population%20Density%20-%20scatter.png)
-
 
   
   2) Compare the deaths of COVID-19 from the US perspective from the population 
