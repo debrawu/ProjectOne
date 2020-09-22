@@ -49,6 +49,7 @@ https://www.census.gov/data/developers.html
   
   2) Compare the deaths of COVID-19 from the US perspective from the population 
 ![DeathsperState](https://user-images.githubusercontent.com/65466578/93837236-f536a500-fc4a-11ea-9642-2e6ff24634cc.png)
+
 In the US, we can see the number of deaths per state and how they rank within each other. We can see that states like New York, California, New Jersey, Florida & Texas and other states like Hawaii, Wyoming, North Dakota and Alaska ranking very low in Covid deaths. 
 
 Naturally, we could assume there is a relationship between population and deaths, with states like Wyoming, North Dakota & Alaska which are much lower in population in comparison to other states. 
@@ -69,7 +70,8 @@ As we can see here, there is a strong, positive relationship between the death r
     
   4) Does GDPs for each state have any relationships with COVID-19 deaths?
   
-    ![Screen Shot 2020-09-19 at 11 10 15 AM (2)](https://user-images.githubusercontent.com/65466578/93836297-e4386480-fc47-11ea-912a-dd08c76c65d4.png)
+![Screen Shot 2020-09-19 at 11 10 15 AM (2)](https://user-images.githubusercontent.com/65466578/93838053-f5846f80-fc4d-11ea-9d7a-569fba8715c1.png)
+
   In this portion of the study, we analyzed the socio-economic factors that could play into Covid related deaths. The GDP data was gathered by the Bureau of Economic Analysis, and we specifically gathered the data from 2018, when the economy was more stable and unaffected by a pandemic. Our initial hypothesis was that the GDP had an adverse effect on Covid deaths. With a higher GDP, the assumption was that more people would have better access to healthcare and resources in order to recover from the virus.
   
   The heatmap illustrates two layers, the outside layer of GDP and the internal layer of deaths by Covid. Opposite from our initial hypothesis, it seems that with a higher GDP, that there are more deaths related to Covid. 
