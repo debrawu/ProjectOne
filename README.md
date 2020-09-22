@@ -84,11 +84,16 @@ Adding more factors to COVID-19 deaths, we wanted to analyze the relationship be
 We can see based on the analysis of GDP per state and by region, that actually both represent a positive correlation between the GDP and death, and when there is a growth in GDP, there is also a growth in death. 
   
   5) How is gender impacted by Covid-19 deaths in the US?
+
+![gender](https://github.com/debrawu/ProjectOne/blob/master/deaths_by_sex(line).png)
+
   
    Our study in COVID-19 deaths in relation to gender indicates that men face a higher risk of death from COVID-19 than women across the age group from newborns to 84 years. This led to two questions, which are:  1) Is there a similar pattern between COVID-19 deaths in gender and other deaths (i.e., cancer, diabetes, heart diseases, etc.) in gender?, and 2) Why? 
     
    In order to answer the first question, we pulled another data from CDC; the number of deaths in top 7 causes in the United States by gender. It’s interesting to find out that the male group contains a higher number of deaths for heart diseases, cancer, unintentional injuries, chronic lower respiratory disease, stroke and diabetes. 
     
+![deaths_category](https://github.com/debrawu/ProjectOne/blob/master/Death%20Category%20male%20vs.%20female.png)
+
    As far as answering “why?” -- we were not able to find the direct correlation between the cause and effect; however, we could make an argument based on the CDC statistics that there is a correlation between the percentage of tobacco product use and deaths rate, since there are 25.8% of men in the United States saying yes to tobacco product use, compared to women in 14.1%. 
 
 
