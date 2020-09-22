@@ -68,7 +68,7 @@ When we look at a histogram of % of Total Deaths and % of Total Population, we c
 
 Is there a relationship between COVID deaths and the population density of a country? -- No, there is absolutely no relationship between COVID deaths and population density.  It is far more likely that COVID outbreaks are more a function of culture, mask adoption and social-distancing practices more than GPP, population and population density. 
 
-[populationdensity](https://github.com/debrawu/ProjectOne/blob/master/Deaths%20vs%20Population%20Density%20-%20scatter.png)
+![populationdensity](https://github.com/debrawu/ProjectOne/blob/master/Deaths%20vs%20Population%20Density%20-%20scatter.png)
 
 
   
