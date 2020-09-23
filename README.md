@@ -1,24 +1,17 @@
-Project Title: COVID-19
+# Project_One
+Michael Bien, Project One, Group One
+IMPORTANT NOTE: This repo is effectively a branch of our main project repo located here: https://github.com/debrawu/ProjectOne
 
-Team Members: Michael Bien, Lupita Lopez, Jinah Porter, Debra Wu
-Git Repository Link: https://github.com/debrawu/ProjectOne.git
-Project Description/ Outline
+What happened? We had initially decided to use branching in our project repo.  I had to make changes to my branch files and my portion of the repo became out of sync, so I created a new repo to continue with my portion of the project.
 
-In this study, we will be analyzing the data of COVID-19 and its impact on age, socio economic factors, ethnicity, and the top (10) locations in the US, based on population.
+For a full list of my commits please see:
+1. My branch on the main project here: https://github.com/debrawu/ProjectOne/tree/mcbien
+2. The commits within my repo (this repo) here: https://github.com/mcbien/Project_One
 
-Research Questions to Answer
-  Compare the spread of COVID-19 between the top 10 locations in the US by population
-  Age
-  Socio-Economic
-  Gender 
-  Ethnicity
+A full write-up of the project can be found here: https://github.com/debrawu/ProjectOne/blob/master/README.md
 
-Data Sets to be Used
-http://www.census.gov/data.html
-https://covid19api.com/
+Sorry for the complexity here.
 
-Rough Breakdown of Tasks
-  Gather the data from sets mentioned above
-  Clean the data into the project scope
-  Choosing Timelines
-  Choosing Visuals 
+Thanks,
+
+Michael
